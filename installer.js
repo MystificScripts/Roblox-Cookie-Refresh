@@ -1,3 +1,4 @@
+//set this as start command on the site called onrender.com you can do node installer.js, this will add like install dependencies and it will start the server
 const { exec } = require('child_process');
 const dependencies = ['express', 'axios', 'fs'];
 const installDependencies = () => {
