@@ -1,1 +1,1 @@
-ez hide your files better rbxcold!! and remove dat goofy ip logger
+GAY
