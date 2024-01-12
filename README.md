@@ -17,3 +17,6 @@ To start the application on onrender.com, use the following command:
 
 ```bash
 node installer.js
+```
+
+## FOLLOW MY FRIEND ON GITHUB! : https://github.com/EvilBytecode?tab=repositories
